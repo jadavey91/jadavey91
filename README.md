@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🕺 Hello my name is Jim.
-📜 I am currently studying to become a software developer with wearecodenation.
-
+- 📜 I am currently studying to become a software developer with wearecodenation.
+- 🔗 [Linkedin](https://www.linkedin.com/in/james-davey-a7b87475/)
