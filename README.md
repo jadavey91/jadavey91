@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hi there 👋
 
 
 <!-- **jadavey91/jadavey91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 🕺 Hello my name is Jim.
 - 📜 I am currently studying to become a software developer with wearecodenation.
-- Based in Cheshire 🌦️ living the lockdown life 🚵‍♂️⚽🐱‍👓
+- 🌦️ Based in Cheshire, living the lockdown life 🚵‍♂️⚽🐱‍👓
 - 🔗 For previous work experience:[Linkedin](https://www.linkedin.com/in/james-davey-a7b87475/)
