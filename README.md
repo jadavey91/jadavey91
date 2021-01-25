@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
-**jadavey91/jadavey91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **jadavey91/jadavey91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+Here are some ideas to get you started: 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,6 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-Hello my name is Jim
+-->
+🕺 Hello my name is Jim.
+📜 I am currently studying to become a software developer with wearecodenation.
 
