@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🕺 Hello my name is Jim.
-- 📜 I am currently studying to become a software developer with wearecodenation.
-- 🌦️ Based in Cheshire, living the lockdown life 🚵‍♂️⚽🐱‍👓
-- 🔗 For previous work experience:[Linkedin](https://www.linkedin.com/in/james-davey-a7b87475/)
+- Hello my name is Jim.
+- Recently completed the master coding bootcamp with Codenation.
+- Currently working on an API app (private) and soon to start a recipe based shopping list App. 
+- 🔗 For previous work experience:[Linkedin](https://www.linkedin.com/in/james-a-davey/)
