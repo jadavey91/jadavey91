@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 -->
 - Jim here!
 - Recently completed the master coding bootcamp with Codenation.
-- Currently working on an API app (private) and soon to start a recipe based shopping list App. 
+- Currently working on an API app (private) and soon to start a recipe based shopping list app. 
 - 🔗 For previous work experience:[Linkedin](https://www.linkedin.com/in/james-a-davey/)
