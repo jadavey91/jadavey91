@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- Hello my name is Jim.
+- Jim here!
 - Recently completed the master coding bootcamp with Codenation.
 - Currently working on an API app (private) and soon to start a recipe based shopping list App. 
 - 🔗 For previous work experience:[Linkedin](https://www.linkedin.com/in/james-a-davey/)
