@@ -17,3 +17,20 @@ Here are some ideas to get you started:
 - Recently completed the master coding bootcamp with Codenation.
 - Currently working on an API app (private) and soon to start a recipe based shopping list app. 
 - 🔗 For previous work experience:[Linkedin](https://www.linkedin.com/in/james-a-davey/)
+
+
+CodeNation Work:
+Final project was a functioning quiz MERN stack application involing users, log-ins, quiz creation, scoring and leaderboards:
+
+![QuizHomePage](https://github.com/jadavey91/WeatherApp/blob/main/public/img/QuizMainPage.PNG?raw=true)
+
+![QuizPage](https://github.com/jadavey91/WeatherApp/blob/main/public/img/QuizPage.PNG?raw=true)
+
+React project to replicate Twitter. Heavy emphasis on CSS and components:
+
+![TwitterClone](https://github.com/jadavey91/WeatherApp/blob/main/public/img/TwitterClone.PNG?raw=true)
+
+Game Review Site using MERN stack, first exposure to back-end data integration with React:
+
+![Browser-Arousers](https://github.com/jadavey91/WeatherApp/blob/main/public/img/homepageCrop.png?raw=true)
+
