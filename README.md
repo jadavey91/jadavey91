@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - Jim here!
 - Recently completed the master coding bootcamp with Codenation.
 - Currently working on a recipe based shopping list app. 
-- 🔗 For previous work experience:[Linkedin](https://www.linkedin.com/in/james-a-davey/)
+- 🔗 For previous work experience: [Linkedin](https://www.linkedin.com/in/james-a-davey/)
 
 
 #### CodeNation Work:
