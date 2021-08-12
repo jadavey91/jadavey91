@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Jim here!
-- Recently completed the master coding bootcamp with Codenation.
-- Currently working on a recipe based shopping list app. 
+- Completed the master coding bootcamp with Codenation at the start of 2021.
+- Currently working on a recipe based shopping list app.
+- Passed M001: MongoDB Basics and now working through M220JS: MongoDB for JavaScript Developers.
 - 🔗 For previous work experience: [Linkedin](https://www.linkedin.com/in/james-a-davey/)
 
 
