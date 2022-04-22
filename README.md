@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Jim here!
+- Associate Software Engineer at Iris Software Group.
 - Completed the master coding bootcamp with Codenation at the start of 2021.
-- Currently working on a recipe based shopping list app.
-- Learning more on databases through MongoDB to then incorperate in my shopping list app:
-- Passed M001: MongoDB Basics and M220JS: MongoDB for JavaScript Developers.
 - 🔗 For previous work experience: [Linkedin](https://www.linkedin.com/in/james-a-davey/)
 
 
