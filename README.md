@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - Jim here!
-- Associate Software Engineer at Iris Software Group.
+- Software Engineer at Iris Software Group.
 - Completed the master coding bootcamp with Codenation at the start of 2021.
 - 🔗 For previous work experience: [Linkedin](https://www.linkedin.com/in/james-a-davey/)
 
